@@ -18,36 +18,38 @@ public class conversionTests extends currencyBaseClass {
 
 	private static Logger logger = LogManager.getLogger(log4j2Class.class);
 
-	@Test(priority=1)
-	public void currencyTests() throws InterruptedException {
+
+	@Test(priority =1)
+	public void currencyTests() throws InterruptedException { 
+
 
 		WebDriver driver = currencyBaseClass.openBrowser("chrome", "https://www.paysera.lt/v2/en-LT/fees/currency-conversion-calculator");
+		logger.debug("Application got opened");
 
 		JavascriptExecutor js = (JavascriptExecutor) driver;
 		js.executeScript("window.scrollBy(0,1000)", "");
-		Thread.sleep(2000);
+		Thread.sleep(2000);	
 
 		currenceyPages currency_pages =  PageFactory.initElements(driver, currenceyPages.class);
+		logger.debug("Creating page object by using the page factory");
 
 		currency_pages.currencyConversion();
+		logger.debug ("Call the main method");
 		
-		js.executeScript("window.scrollBy(0,1800)", "");
 		Thread.sleep(2000);
-		
-		selectFooterLan selectFooter_Lan =  PageFactory.initElements(driver, selectFooterLan.class);
+		logger.debug("2nd time call the windows scrolling");
 
+		selectFooterLan selectFooter_Lan =  PageFactory.initElements(driver, selectFooterLan.class);
 		selectFooter_Lan.selectLanguage();
-		
-		js.executeScript("window.scrollBy(0,1000)", "");
+		logger.debug("Clicked the select footer language by call the method");
+
 		Thread.sleep(2000);
+		logger.debug("3rd time call the window scrolling");
 
 		currenceyPages currency_page =  PageFactory.initElements(driver, currenceyPages.class);
-
 		currency_page.currencyCalculation();
-		
-		logger.info("This is info message");
+		logger.debug("Calculation and verify the currency");
 
-	}
-	
+	}	
 
 }

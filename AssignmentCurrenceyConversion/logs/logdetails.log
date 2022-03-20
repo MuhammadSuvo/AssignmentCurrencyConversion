@@ -1,14 +1,52 @@
-[INFO ] 2022-03-19 03:04:20.040 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:09:37.377 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:15:39.711 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:29:23.153 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:31:19.911 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:37:36.827 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:39:05.732 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:39:57.806 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:44:01.551 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:45:40.742 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:46:56.102 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:48:18.407 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:48:37.768 [main] log4j2Class - This is info message
-[INFO ] 2022-03-19 03:56:23.941 [main] log4j2Class - This is info message
+[DEBUG] 2022-03-20 15:11:32.923 [main] log4j2Class - Application got opened
+[DEBUG] 2022-03-20 15:11:34.982 [main] log4j2Class - Creating page object by using the page factory
+[DEBUG] 2022-03-20 15:11:37.110 [main] log4j2Class - Call the main method
+[DEBUG] 2022-03-20 15:11:39.112 [main] log4j2Class - 2nd time call the windows scrolling
+[DEBUG] 2022-03-20 15:11:50.594 [main] log4j2Class - Clicked the select footer language by call the method
+[DEBUG] 2022-03-20 15:11:52.600 [main] log4j2Class - 3rd time call the window scrolling
+[DEBUG] 2022-03-20 15:11:57.056 [main] log4j2Class - Calculation and verify the currency
+[INFO ] 2022-03-20 15:11:57.061 [main] log4j2Class - The calculation is perfect
+[DEBUG] 2022-03-20 15:15:49.931 [main] log4j2Class - Application got opened
+[DEBUG] 2022-03-20 15:15:51.988 [main] log4j2Class - Creating page object by using the page factory
+[DEBUG] 2022-03-20 15:15:54.099 [main] log4j2Class - Call the main method
+[DEBUG] 2022-03-20 15:15:56.112 [main] log4j2Class - 2nd time call the windows scrolling
+[DEBUG] 2022-03-20 15:16:04.172 [main] log4j2Class - Clicked the select footer language by call the method
+[DEBUG] 2022-03-20 15:16:06.174 [main] log4j2Class - 3rd time call the window scrolling
+[DEBUG] 2022-03-20 15:16:10.590 [main] log4j2Class - Calculation and verify the currency
+[INFO ] 2022-03-20 15:16:10.590 [main] log4j2Class - The calculation is perfect
+[DEBUG] 2022-03-20 15:20:08.082 [main] log4j2Class - Application got opened
+[DEBUG] 2022-03-20 15:20:10.164 [main] log4j2Class - Creating page object by using the page factory
+[DEBUG] 2022-03-20 15:20:12.315 [main] log4j2Class - Call the main method
+[DEBUG] 2022-03-20 15:20:14.325 [main] log4j2Class - 2nd time call the windows scrolling
+[DEBUG] 2022-03-20 15:20:25.363 [main] log4j2Class - Clicked the select footer language by call the method
+[DEBUG] 2022-03-20 15:20:27.375 [main] log4j2Class - 3rd time call the window scrolling
+[DEBUG] 2022-03-20 15:20:31.875 [main] log4j2Class - Calculation and verify the currency
+[INFO ] 2022-03-20 15:20:31.875 [main] log4j2Class - The calculation is perfect
+[DEBUG] 2022-03-20 15:26:53.658 [main] log4j2Class - Application got opened
+[DEBUG] 2022-03-20 15:26:55.719 [main] log4j2Class - Creating page object by using the page factory
+[DEBUG] 2022-03-20 15:26:57.916 [main] log4j2Class - Call the main method
+[DEBUG] 2022-03-20 15:26:59.928 [main] log4j2Class - 2nd time call the windows scrolling
+[DEBUG] 2022-03-20 15:27:11.455 [main] log4j2Class - Clicked the select footer language by call the method
+[DEBUG] 2022-03-20 15:27:13.458 [main] log4j2Class - 3rd time call the window scrolling
+[DEBUG] 2022-03-20 15:27:18.207 [main] log4j2Class - Calculation and verify the currency
+[INFO ] 2022-03-20 15:27:18.207 [main] log4j2Class - The calculation is perfect
+[DEBUG] 2022-03-20 15:29:19.480 [main] log4j2Class - Application got opened
+[DEBUG] 2022-03-20 15:29:21.511 [main] log4j2Class - Creating page object by using the page factory
+[DEBUG] 2022-03-20 15:29:23.611 [main] log4j2Class - Call the main method
+[DEBUG] 2022-03-20 15:29:25.612 [main] log4j2Class - 2nd time call the windows scrolling
+[DEBUG] 2022-03-20 15:29:33.546 [main] log4j2Class - Clicked the select footer language by call the method
+[DEBUG] 2022-03-20 15:29:35.551 [main] log4j2Class - 3rd time call the window scrolling
+[DEBUG] 2022-03-20 15:29:40.001 [main] log4j2Class - Calculation and verify the currency
+[INFO ] 2022-03-20 15:29:40.001 [main] log4j2Class - The calculation is perfect
+[DEBUG] 2022-03-20 15:36:11.861 [main] log4j2Class - Application got opened
+[DEBUG] 2022-03-20 15:36:18.019 [main] log4j2Class - 2nd time call the windows scrolling
+[DEBUG] 2022-03-20 15:36:27.663 [main] log4j2Class - Clicked the select footer language by call the method
+[DEBUG] 2022-03-20 15:36:29.671 [main] log4j2Class - 3rd time call the window scrolling
+[DEBUG] 2022-03-20 15:36:34.121 [main] log4j2Class - Calculation and verify the currency
+[DEBUG] 2022-03-20 15:42:44.261 [main] log4j2Class - Application got opened
+[DEBUG] 2022-03-20 15:42:46.303 [main] log4j2Class - Creating page object by using the page factory
+[DEBUG] 2022-03-20 15:42:48.410 [main] log4j2Class - Call the main method
+[DEBUG] 2022-03-20 15:42:50.419 [main] log4j2Class - 2nd time call the windows scrolling
+[DEBUG] 2022-03-20 15:43:01.500 [main] log4j2Class - Clicked the select footer language by call the method
+[DEBUG] 2022-03-20 15:43:03.511 [main] log4j2Class - 3rd time call the window scrolling
+[DEBUG] 2022-03-20 15:43:07.919 [main] log4j2Class - Calculation and verify the currency
