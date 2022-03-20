@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-03-20T17:35:51 BDT" name="CurrencyConversion" finished-at="2022-03-20T17:36:29 BDT" duration-ms="37214">
+  <suite started-at="2022-03-20T17:38:02 BDT" name="CurrencyConversion" finished-at="2022-03-20T17:38:31 BDT" duration-ms="29492">
     <groups>
     </groups>
-    <test started-at="2022-03-20T17:35:51 BDT" name="CurrencyConversionFirstTest" finished-at="2022-03-20T17:36:29 BDT" duration-ms="37214">
+    <test started-at="2022-03-20T17:38:02 BDT" name="CurrencyConversionFirstTest" finished-at="2022-03-20T17:38:31 BDT" duration-ms="29492">
       <class name="currencyConversionTests.conversionTests">
-        <test-method signature="currencyTests()[pri:1, instance:currencyConversionTests.conversionTests@e077866]" started-at="2022-03-20T17:35:51 BDT" name="currencyTests" finished-at="2022-03-20T17:36:28 BDT" duration-ms="37142" status="PASS">
+        <test-method signature="currencyTests()[pri:1, instance:currencyConversionTests.conversionTests@e077866]" started-at="2022-03-20T17:38:02 BDT" name="currencyTests" finished-at="2022-03-20T17:38:31 BDT" duration-ms="29425" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- currencyTests -->
