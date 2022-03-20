@@ -52,7 +52,6 @@ public class currenceyPages {
 		click_Filter.click();
 		Thread.sleep(1000);
 		
-
 	}
 
 }

@@ -1,5 +1,6 @@
 package currencyConversionPages;
 
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
@@ -35,7 +36,7 @@ public class selectFooterLan {
 		Thread.sleep(500);
 		click_countyDropdown.click();
 		Thread.sleep(1000);
-		select_country.click();
+		select_country.sendKeys(Keys.ENTER);
 		Thread.sleep(3000);
 	}
 
